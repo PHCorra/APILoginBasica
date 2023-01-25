@@ -8,5 +8,5 @@ O banco de dados utilizado para a aplicação foi o MySQL.
 
 
 ## Considerações
-Pretendo ou continuar este repositório fazendo uma parte front end para consumir está API, ou construir uma API do zero já pensando no front end.
-Qualquer feedback só entrar em contato comigo, sintasse a vontade para alterar qualquer coisa ;).
+Pretendo continuar este repositório fazendo uma parte front end para consumir está API, ou construir uma API do zero já pensando no front end.
+Qualquer feedback só entrar em contato comigo, sinta-se a vontade para alterar qualquer coisa ;).
